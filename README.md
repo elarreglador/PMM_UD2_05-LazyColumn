@@ -1,6 +1,13 @@
 # PMM_UD2_05 LazyColumn
 Esta aplicación de Android desarrollada en Jetpack Compose permite al usuario agregar dinámicamente elementos en una lista utilizando LazyColumn. Cada elemento de la lista contiene un checkbox y un texto que muestra el estado actual del checkbox (marcado o sin marcar).
 
+<p align="center">
+    <figure>
+        <img src="./screenshots/1.png" alt="Vista de la aplicación" style="border: 2px solid black; border-radius: 8px;" width="350"/>
+        <figcaption>Vista de la aplicación al iniciar</figcaption>
+    </figure>
+</p>
+
 ## Características
 Añadir elementos a la lista mediante un botón "Agregar".
 Cada elemento consiste en un checkbox y un texto que muestra el estado del checkbox.
